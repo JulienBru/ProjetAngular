@@ -1,10 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6epMQcoo)
-# Angular : rendu n°2
-Repository où déposer le projet n°2 Angular
+# Angular : Rendu Finale
 
-### Nom[^1] : PUSTEL
-
-### Prénom[^2] : FLORIAN
+### Etudiant[^1] : PUSTEL Florian / BRUNETTI Julien
 
 ## A faire[^3]
 - [x] Suivre le cours jusqu'à la page 180
